@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/shiro.demo.iml" filepath="$PROJECT_DIR$/shiro.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm-shiro/ssm-shiro.iml" filepath="$PROJECT_DIR$/../ssm-shiro/ssm-shiro.iml" />
     </modules>
   </component>
 </project>
